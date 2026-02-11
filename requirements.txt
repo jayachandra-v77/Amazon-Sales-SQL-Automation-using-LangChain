@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain-pinecone
+pyodbc
+python-dotenv
+pandas
