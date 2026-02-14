@@ -1,6 +1,6 @@
 # Amazon Sales SQL Automation using LangChain
 
-# 🚀 Project Overview
+## 🚀 Project Overview
 
 This project is an AI-powered Text-to-SQL automation system built using LangChain and SQL Server.
 
