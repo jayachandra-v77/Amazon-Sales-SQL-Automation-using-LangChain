@@ -1,4 +1,4 @@
-# Amazon Sales SQL Automation using LangChain
+# amazon-sales-sqlserver-ai-query-system
 
 ## 🚀 Project Overview
 
